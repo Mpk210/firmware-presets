@@ -711,8 +711,8 @@
     },
     {
       "fullPath": "presets/2025.12/osd/Marek_OSD_GPS.txt",
-      "hash": "624b92483962112a1f8d5795a5edc7de0276eca545f104ed7dd3c8b9edcb2afb",
-      "title": "Marek Custom OSD Settings",
+      "hash": "b680884ae5c2e9bcdaf07961f6222f113daddb8a47f7c72f0dc7716b30df59ac",
+      "title": "Marek Custom OSD Settings with GPS",
       "firmware_version": [
         "2025.12"
       ],
