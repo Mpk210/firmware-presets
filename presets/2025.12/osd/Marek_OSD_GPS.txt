@@ -4,7 +4,7 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Marek, custom, OSD
 #$ AUTHOR: Marek
-#$ DESCRIPTION: My custom OSD
+#$ DESCRIPTION: My custom OSD with GPS
 
 #$ INCLUDE: presets/2025.12/osd/defaults.txt
 
