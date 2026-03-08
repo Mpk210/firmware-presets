@@ -6,8 +6,6 @@
 #$ AUTHOR: Marek
 #$ DESCRIPTION: My custom OSD with GPS
 
-#$ INCLUDE: presets/2025.12/osd/defaults.txt
-
 set osd_warn_bitmask = 263167
 set osd_rssi_dbm_alarm = -99
 set osd_vbat_pos = 366
