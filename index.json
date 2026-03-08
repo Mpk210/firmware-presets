@@ -694,7 +694,24 @@
     },
     {
       "fullPath": "presets/2025.12/osd/Marek_OSD.txt",
-      "hash": "cb59adf6d7857f1aaf55c1b534e26cbcaa568dc4101bc6e1d14322e9d7a80b54",
+      "hash": "b121193b58beab242d0fea070666e337389a1e2523cfd0d7e79354d45af6215c",
+      "title": "Marek Custom OSD Settings",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Marek",
+        "custom",
+        "OSD"
+      ],
+      "author": "Marek",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2025.12/osd/Marek_OSD_GPS.txt",
+      "hash": "624b92483962112a1f8d5795a5edc7de0276eca545f104ed7dd3c8b9edcb2afb",
       "title": "Marek Custom OSD Settings",
       "firmware_version": [
         "2025.12"
